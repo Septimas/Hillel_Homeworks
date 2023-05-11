@@ -1,0 +1,7 @@
+git init - initialize git settings. returns our folder to git repo
+git clone - takes acopy of master branch to local repo
+git pull - makes pull request
+git branch - create branch
+git checkout -
+git push -
+git commit -
