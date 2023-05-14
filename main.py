@@ -1,4 +1,5 @@
 eleks = ['Dean', 'Sam', 'Ben', 'David']
-toshiba = eleks.copy()
+toshiba = ['Lily', 'Allan', 'Jane', 'Dean']
+toshiba.extend(['Dean', 'Sam', 'Ben', 'David'])
 eleks.clear()
 print(eleks, toshiba)
